@@ -1,0 +1,9 @@
+.h-img{
+  height: 150px;
+}
+.nav-tran{
+transition: all 2s;
+}
+.nav-transform{
+  transform :translate(10px)
+}
